@@ -6,7 +6,7 @@
     <title>Actualizar</title>
 </head>
 <body>
-    <form action="insertarCategoria" method="post">
+    <form action="actualizaCategoria" method="post">
         <label for="">
             Nombre de la categoria
         </label>
